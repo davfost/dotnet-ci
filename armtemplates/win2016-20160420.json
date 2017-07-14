@@ -4,7 +4,7 @@
   "parameters": {
     "newVMName": {
       "type": "string",
-      "defaultValue": "win2016-vs2017"
+      "defaultValue": "win2016vs2017"
     },
     "labName": {
       "type": "string",
